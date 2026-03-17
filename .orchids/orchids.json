@@ -1,0 +1,8 @@
+{
+  "startupCommands": [
+    "cd /home/user/app/dr-mahee-dental-clinic/backend && npm install; npm run dev",
+    "cd /home/user/app/dr-mahee-dental-clinic/frontend && npm install; npm run dev"
+  ],
+  "projectId": "342bc618-e739-4ce0-87ad-c67cdbea143b",
+  "templateId": "any"
+}
